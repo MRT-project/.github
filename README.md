@@ -2,9 +2,9 @@
 <table>
   <tr>
     <td align=center>
-      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUWU-TEAM&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false">
-      <img src="https://img.shields.io/github/followers/UWU-TEAM">
-      <img src="https://img.shields.io/github/stars/UWU-TEAM?style=social">
+      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMRT-project&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false">
+      <img src="https://img.shields.io/github/followers/MRT-project">
+      <img src="https://img.shields.io/github/stars/MRT-project?style=social">
     </td>
   </tr>
   <tr>
@@ -16,7 +16,7 @@
 </tr>
 <tr>
   <td>
-    <img src="https://github.com/UWU-TEAM/.github/blob/main/github-metrics.svg" width="100%"  align="top" alt="🦀" />
+    <img src="https://github.com/MRT-project/.github/blob/main/github-metrics.svg" width="100%"  align="top" alt="🦀" />
   </td>
 </tr>
 <tr>
